@@ -13,4 +13,5 @@ $ g++ create_table.cpp -o create_table -l sqlite3
 $ ./create_table
 
 ```
-
+###To do:###
+* Move sqlite3 lib to the project folder
