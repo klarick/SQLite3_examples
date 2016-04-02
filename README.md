@@ -10,7 +10,7 @@ $ g++ create_table.cpp -o create_table -l sqlite3
 ```
 ### Run: ###
 ```
-$./ create_table
+$ ./create_table
 
 ```
 
